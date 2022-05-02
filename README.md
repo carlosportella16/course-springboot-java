@@ -1,22 +1,22 @@
-# Projeto web services com Spring Boot e JPA / Hibernate
+# Web services project with Spring Boot and JPA / Hibernate
 
-## Objetivos
-* Criar projeto Spring Boot Java
-* Implementar modelo de domínio
-* Estruturar camadas lógicas: resource, service, repository
-* Configurar banco de dados de teste (H2)
-* Povoar o banco de dados
+## Goals
+* Create Spring Boot Java project
+* Implement domain model
+* Structure logical layers: resource, service, repository
+* Configure test database (H2)
+* Populate the database
 * CRUD - Create, Retrieve, Update, Delete
-* Tratamento de exceções
+* Exception handling
 
-## Ferramentas Utilizadas
-* Spring-boot
+## Tools Used
+* spring boot
 * Maven
 * Apache Tomcat
 * H2
-* Postman
+* postman
 * PostgreSQL
-* Heroku
+* heroku
 
-## Link para efeturar as requisições no Postman
+## Link to make requests in Postman
 https://course-java-springboottt.herokuapp.com/
