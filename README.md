@@ -17,6 +17,3 @@
 * Postman
 * PostgreSQL
 * Heroku
-
-## Link to make requests in Postman
-https://course-java-springboottt.herokuapp.com/
